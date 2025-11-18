@@ -10,5 +10,6 @@ int main(int argc, char *argv[]) {
     }
 
     printf("Thanks for waddling through this program. Have a nice day.");
+    printf("%d\n", count);
     return 0;
 }
